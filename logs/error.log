@@ -1,0 +1,4 @@
+2025-01-03 02:44:26 - [31merror[39m: [31mNão foi possivel conectar[39m
+2025-01-05 22:00:06 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "677afe57e7999b517546d4d" (type string) at path "_id" for model "Movie"[39m
+2025-01-05 22:01:09 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "677afe57e7999b517546d4dg" (type string) at path "_id" for model "Movie"[39m
+2025-01-05 22:01:31 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "677afe57e7999b517546d4dg" (type string) at path "_id" for model "Movie"[39m
